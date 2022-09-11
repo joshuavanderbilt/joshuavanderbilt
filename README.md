@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshuavanderbilt
 - 👀 I’m interested in ... Docker, Web dev, Desktop application dev.
-- 🌱 I’m currently learning ... Python, JS, Docker, CSS.
+- 🌱 I’m currently learning ... Python, JS, Docker, CSS. Now also Lua, C, C++
 
 <!---
 joshuavanderbilt/joshuavanderbilt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
